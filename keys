@@ -1,7 +1,7 @@
 # profile-title: keys iovpn
 # profile-update-interval: 1
 # Date/Time: 2026-11-28
-# Количество: 1
+# Количество: 5
 vless://2d41c69e-8ce7-4e00-a531-488cc7b6927e@212.41.28.65:443?encryption=none&security=tls&sni=ce3fp598gr.j.cloudfront.hls.edgehls.net&fp=safari&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi#%F0%9F%87%AE%F0%9F%87%B3%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F
 vless://2d41c69e-8ce7-4e00-a531-488cc7b6927e@212.41.28.65:443?encryption=none&security=tls&sni=mehlyjeo9a.j.cloudfront.hls.hlsnode.net&fp=safari&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
 vless://2d41c69e-8ce7-4e00-a531-488cc7b6927e@212.41.28.65:443?encryption=none&security=tls&sni=yakwrxv04y.j.cloudfront.hls.vodcdn-edge.net&fp=safari&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
